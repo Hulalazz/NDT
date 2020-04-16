@@ -1,2 +1,2 @@
 # NDT
-Neural Decision Trees
+This is a colloection of paper on Neural Decision Trees.
